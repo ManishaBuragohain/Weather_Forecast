@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import "./Navbar.css";
-import logo from "../../../public/Assets/logo.png";
+import logo from "../../../public/Assets/weather-app.png";
 import { pages } from "../../Pages/config";
 
 const Navbar = () => {
