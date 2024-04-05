@@ -40,6 +40,7 @@
 
   .background {
     height: 86vh !important;
+    position: sticky;
   }
   .background .box {
     width: 100%;
